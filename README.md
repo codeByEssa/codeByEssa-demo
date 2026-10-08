@@ -5,4 +5,4 @@ Author - Muhammad Essa.
 <br>
 This is my developer journey.
 <br>
-You dont need to row with anyone bug would do fulfill your wish
+You don't need to row with anyone bug would do fulfill your wish
