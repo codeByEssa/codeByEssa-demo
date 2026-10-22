@@ -9,5 +9,5 @@ You don't need to row with anyone bug would do fulfill your wish.
 <br>
 I want to become a full stack developer including AI Integration.
 <br>
-I am creating  a ai mock app.
+I am creating  a AI Mock App.
 
