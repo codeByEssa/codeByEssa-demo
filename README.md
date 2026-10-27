@@ -11,6 +11,6 @@ I want to become a Full Stack developer including AI Integration.
 <br>
 I am creating  a AI Mock App.
 <br>
-Busy in the exams
+Busy in the exams.
 
 
