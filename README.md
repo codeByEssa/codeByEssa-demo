@@ -7,7 +7,7 @@ This is my developer journey.
 <br>
 You don't need to row with anyone bug would do fulfill your wish.
 <br>
-I want to become a Full Stack developer including AI Integration.
+I want to become a Full Stack Developer including AI Integration.
 <br>
 I am creating  a AI Mock App.
 <br>
