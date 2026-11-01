@@ -1,5 +1,5 @@
 # codeByEssa-demo
-This is my first Git Repository.
+This is my First Git Repository.
 <br>
 Author - Muhammad Essa.
 <br>
