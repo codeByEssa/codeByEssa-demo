@@ -9,4 +9,4 @@ You don't need to row with anyone bug would do fulfill your wish.
 <br>
 I want to become a Full Stack Developer including AI Integration.
 <br>
-I am creating  an  AI Mock  interview App .
+I am creating  an  AI Mock  interview App.
