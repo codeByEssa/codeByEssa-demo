@@ -5,7 +5,7 @@ Author - Muhammad Essa.
 <br>
 This is my developer journey.
 <br>
-You don't need to row with anyone bug would do fulfill your wish.
+You don't need to fear with anyone bug would do fulfill your wish.
 <br>
 I want to become a Full Stack Developer including AI Integration.
 <br>
