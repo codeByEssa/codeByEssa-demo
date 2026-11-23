@@ -9,4 +9,4 @@ You don't need to fear with anyone bug.
 <br>
 I want to become a Full Stack Developer including AI Integration.
 <br>
-I am creating  an  AI Mock  interview App.
+I am creating  an  AI Mock  Interview App.
