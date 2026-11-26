@@ -5,7 +5,7 @@ Author-Muhammad Essa.
 <br>
 This is my developer journey.
 <br>
-You don't need  fear with anyone bug.
+You don't need fear with anyone bug.
 <br>
 I want to become a Full Stack Developer including AI Integration.
 <br>
